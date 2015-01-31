@@ -29,6 +29,7 @@ class RomanNumeral
 
     end
 
+
     def to_arabic
         @result = 0
         inputArray = @input.split("")
